@@ -34,9 +34,5 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JohnathaDev&theme=transparent&bg_color=042940&border_color=30A3DC&show_icons=true&icon_color=FFF&title_color=f23030&text_color=F2F2F2&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JohnathaDev&layout=compact&bg_color=042940&border_color=30A3DC&title_color=FFF&text_color=FFF)
 
 
