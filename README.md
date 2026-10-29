@@ -5,7 +5,7 @@
 ## 🧠 Sobre mim .
 
 - 🌱 Meu nome é **Johnatha Cavalcante**, sou de **Fortaleza - CE**. 
-- 🎓 Formando-se em **Engenharia de Software** pelo **Centro Universitário Leonardo da Vinci (UNIASSELVI)**
+- 🎓 Formando-se em **Engenharia de Software** pelo **Centro Universitário Ateneu (UniAteneu)**
 .
 
 ## 📫 Redes Sociais
